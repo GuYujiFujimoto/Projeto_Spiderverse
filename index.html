@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Projeto Spider-Man</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+    <link href="https://fonts.googleapis.com/css2?family=Oxanium:wght@300;400;700&display=swap" rel="stylesheet"/>
+
+    <link rel="stylesheet" href="src/css/reset.css">
+    <link rel="stylesheet" href="src/css/estilos.css">
+    <link rel="stylesheet" href="src/css/responsivo.css">
+</head>
+<body>
+    <header class="cabecalho">
+        <img class="logo" src="src/imagens/logo.PNG" alt="Logo Spider-Man">
+    </header>
+
+    <main class="selecao_de_personagens">
+        <section class="personagens">
+            <h1 class="titulo"> Selecione um Personagem </h1>
+            <ul class="lista_de_personagens">
+                <li class="personagem selecionado" id="miles" data-name="Miles Morales" data-description="Após ser picado por uma aranha geneticamente modificada, Miles recebe poderes idênticos ao do Homem Aranha (Peter de sua dimensão) mas com um diferencial, ele consegue ficar invisível e tem o controle da bioeletricidade.">
+                    <img src="src/imagens/card-miles.jpg" alt="Personagem Miles"> 
+                </li>
+                <li class="personagem" id="peter" data-name="Peter B. Parker" data-description="Depois de ser picado por uma aranha radioativa, Peter ganha habilidades de aranha. Ao longo de 22 anos, ele se casa, perde sua tia May, se separa e entra em depressão. Achando que é o único Homem-Aranha, Peter é levado para o universo de Miles.">
+                    <img src="src/imagens/card-peter.jpg" alt="Personagem Peter B. Parker"> 
+                </li>
+                <li class="personagem" id="peni" data-name="Peni Parker e SP//dr" data-description="Peni Parker está sempre acompanhada de seu robô-aranha, a armadura super tecnológica chamada SP//DR, criada por seu falecido pai em combate. Devido à compatibilidade genética, Peni é a única capaz de assumir a identidade Aranha no seu universo, que se passa em 3145.">
+                    <img src="src/imagens/card-peni.jpg" alt="Personagem Peni Parker"> 
+                </li>
+                <li class="personagem" id="noir" data-name="Spider-Man Noir" data-description="Em seu universo ele está em 1933 e é um detetive particular, após ser picado por uma aranha radioativa essa versão do Peter Parker é mais sombrio e furtivo.">
+                    <img src="src/imagens/card-noir.jpg" alt="Personagem Homem Aranha Noir"> 
+                </li>
+                <li class="personagem" id="gwen" data-name="Spider Gwen" data-description="Após ser picada por uma aranha radioativa, Gwen recebeu seus poderes de aracnídeo e com isso se tornando a primeira e única mulher aranha, em seu universo participa de uma banda e infelizmente não conseguiu salvar seu amigo Peter Parker, com isso não quis mais fazer novas amizades.">
+                    <img src="src/imagens/card-gwen.jpg" alt="Personagem Gwen"> 
+                </li>
+                <li class="personagem" id="spider2099" data-name="Spider-Man 2099" data-description="Miguel O’Hara é descendente de mexicanos e islandeses, geneticista. Ápós ser obrigado a fazer um experimento contra a sua vontade e o paciente morrer, Miguel aplica em si as soluções que combinam o seu DNA com o de uma aranha radioativa. Ele é o líder da comunidade aranha,">
+                    <img src="src/imagens/card-spider2099.jpg" alt="Personagem Homem Aranha 2099"> 
+                </li>
+                <li class="personagem" id="porker" data-name="Peter Porker" data-description="Vindo de uma dimensão de desenho animado Peter Porker era uma aranha que foi mordida por um porco radioativo, se transformando no Porco Aranha e além de seu poderes de aracnídeo, possui também um martelo e o “poder” de flutuar até a comida apenas pelo cheiro.">
+                    <img src="src/imagens/card-porker.jpg" alt="Personagem Peter Porker"> 
+                </li>
+                <li class="personagem" id="jessicadrew" data-name="Jessica Drew" data-description="Após ter sido exposta à radiação de urânio ficou seriamente doente aos 3 anos, para tentar salvá-la, seu pai desenvolveu um soro com base em estudos sobre regeneração e imunidade das aranhas. Após ficar anos refém da medicação, acordou já mulher e com habilidades aranha.">
+                    <img src="src/imagens/card-jessicadrew.jpg" alt="Personagem Jessica Drew"> 
+                </li>
+            </ul>
+        </section>
+        <section class="personagem_selecionado"> 
+            <img class="personagem_grande" src="src/imagens/card-miles.png" alt="Personagem Selecionado">
+            <div class="informacoes_personagens">
+                <h2 class="nome_personagem" id="nome_personagem">Miles Morales</h2>
+                <p class="descricao_personagem" id="descricao_personagem">
+                    Após ser picado por uma aranha geneticamente modificada, Miles recebe poderes idênticos ao do Homem Aranha (Peter de sua dimensão) 
+                    mas com um diferencial, ele consegue ficar invisível e tem o controle da bioeletricidade
+                </p>
+            </div>
+        </section>
+    </main> 
+    <script src="src/js/index.js"></script>   
+</body>
+</html>

@@ -1,0 +1,1 @@
+Esse projeto é uma aplicação web desenvolvida utilizando HTML, CSS e JavaScript. Ele tem como objetivo proporcionar aos fãs e entusiastas do Homem-Aranha no Aranhaverso uma experiência imersiva ao explorar os personagens icônicos desse universo único.
