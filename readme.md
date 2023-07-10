@@ -1,5 +1,5 @@
 ## Projeto Spiderverse
-- <a href="https://tiktok-jornada-1b1a9.web.app/"> Link do projeto! </a>
+- <a href="https://guyujifujimoto.github.io/Projeto_Spiderverse/"> Link do projeto! </a>
 
 
 A aplicação consiste em uma galeria de imagens dos personagens do Homem-Aranha no Aranhaverso, exibidas em miniatura. Quando o usuário posiciona o mouse sobre uma das imagens é exibido uma versão ampliada do personagem selecionado, juntamente com uma descrição detalhada sobre ele.
