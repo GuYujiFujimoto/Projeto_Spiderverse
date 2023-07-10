@@ -42,6 +42,7 @@
 
     .cabecalho .logo{
         max-width: 240px;
+        margin-top: 10px;
     }
 
     .selecao_de_personagens{
@@ -51,7 +52,7 @@
     }
 
     .selecao_de_personagens .personagens{
-        margin-top: 37px;
+        margin-top: 1px;
     }
 
     .selecao_de_personagens .personagens .titulo{

@@ -28,6 +28,7 @@ body::before{
     gap: 30px;
     min-height: calc(100vh - 133px);
     justify-content: center;
+    text-shadow: 1.3px 1.3px 1.3px rgb(3, 2, 0), -1.3px 1.3px 1.3px #000, 1.3px -1.3px 1.3px #000, -1.3px -1.3px 1.3px #000;
 }
 
 .selecao_de_personagens .lista_de_personagens{
