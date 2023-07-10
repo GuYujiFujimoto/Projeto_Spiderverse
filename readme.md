@@ -6,4 +6,3 @@ Cada personagem é cuidadosamente representado com suas características e estil
 
 Seja você um fã de longa data ou alguém que está descobrindo esse universo incrível pela primeira vez, essa exposição interativa é uma maneira divertida e cativante de explorar e aprender mais sobre os personagens do Homem-Aranha no Aranhaverso. Divirta-se e mergulhe nessa aventura!
 
-O projeto Spiderverse é uma aplicação web desenvolvida utilizando HTML, CSS e JavaScript. Ele tem como objetivo proporcionar aos fãs e entusiastas do Aranhaverso uma experiência imersiva ao explorar os personagens icônicos desse universo único.
