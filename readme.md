@@ -1,3 +1,7 @@
+## Projeto Spiderverse
+- <a href="https://guyujifujimoto.github.io/Projeto_Spiderverse/"> Link do projeto! </a>
+
+
 A aplicação consiste em uma galeria de imagens dos personagens do Homem-Aranha no Aranhaverso, exibidas em miniatura. Quando o usuário posiciona o mouse sobre uma das imagens é exibido uma versão ampliada do personagem selecionado, juntamente com uma descrição detalhada sobre ele.
 
 Através do uso de CSS, foi implementado um design atraente e responsivo, garantindo que a aplicação se adapte a diferentes tamanhos de tela e dispositivos. O JavaScript é utilizado para manipular eventos do mouse, possibilitando a exibição das informações adicionais ao passar o cursor sobre as miniaturas.
